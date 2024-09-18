@@ -1,0 +1,1 @@
+# floatinghelptext-exempel
